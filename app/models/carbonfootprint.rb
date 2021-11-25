@@ -1,0 +1,13 @@
+class Carbonfootprint < ApplicationRecord
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+end
